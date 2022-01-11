@@ -1,0 +1,12 @@
+{
+    "name": "dkoch84 Test Workflow",
+    "description": "dkoch84 CI starter workflow.",
+    "iconName": "example-icon",
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$",
+        "*.sh",
+        "*.json"
+    ]
+}
