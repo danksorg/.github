@@ -1,7 +1,7 @@
 {
     "name": "dkoch84 Test Workflow",
     "description": "dkoch84 CI starter workflow.",
-    "iconName": "icons/snorlax.svg",
+    "iconName": "../icons/snorlax.svg",
     "filePatterns": [
         "package.json$",
         "^Dockerfile",
