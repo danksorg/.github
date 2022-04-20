@@ -1,3 +1,3 @@
-## Hi there
+## Hi there 👋
 
-![what](./blink.gif)
+![what](./profile/blink.gif)
