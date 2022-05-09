@@ -3,6 +3,6 @@
   "description": "A simple, elegant plan and apply workflow.",
   "iconName": "terraform",
   "filePatterns": [
-      "*.tf$"
+      ".*\\.tf$"
   ]
 }

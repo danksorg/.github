@@ -3,6 +3,7 @@
     "description": ".NET Core container build and push workflow.",
     "iconName": "dotnet-build-push",
     "filePatterns": [
-        ".csproj$"
+        ".*\\.csproj$",
+        "^Dockerfile"
     ]
 }
