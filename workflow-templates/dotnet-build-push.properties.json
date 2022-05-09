@@ -1,7 +1,7 @@
 {
     "name": ".NET Core Container Workflow",
     "description": ".NET Core container build and push workflow.",
-    "iconName": "dkoch84",
+    "iconName": "dotnet-build-push",
     "filePatterns": [
         ".csproj$"
     ]
